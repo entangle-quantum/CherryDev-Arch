@@ -1,5 +1,5 @@
-# Assalamualaikum and hello there everyone!
-# 🈲 I'm CherryDev. A niqabi Muslim developer, and streamer! Pleasure to meet you!
+# Assalamualaikum Wa Rahmatullahi Wa Barakatuh, and hello there everyone!
+# 🈲 I'm Cascade. A Muslim developer, and streamer! Pleasure to meet you!
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
@@ -7,9 +7,9 @@
 
 I'm a 15-year-old self-taught developer from New Zealand. I'm learning everything from full-stack web development to mobile apps, games, and software. I code to create, express, and connect — all while staying grounded in my faith in Islam and my community.
 
-I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
+I'm a young Muslim developer living in a difficult home environment, where my religion isn't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in Makkah, Saudi Arabia — A place where I can live freely as myself and practise my religion without fear.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to buy myself MacBook, and study at the Islamic University of Madinah in Saudi Arabia.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -17,8 +17,8 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live in Makkah, Saudi Arabia, where I can live as myself and freely follow Islam
-- Get a job in Makkah as a software developer or land a remote job as a developer.
+- Live in Madinah, Saudi Arabia, where I can live as myself and freely follow Islam
+- Get a job in Madinah as a software developer or land a remote job as a developer.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 
@@ -32,13 +32,10 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 
-### Software development (Desktop and mobile)
+### Software development
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 
 ### Full Stack
@@ -52,21 +49,16 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ### Game Development
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### Frameworks
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
 ## ✏️ Software and tools I use
@@ -94,15 +86,15 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ## 🌍 Spoken Languages
 
-I am a native speaker of English, currently learning Modern Standard Arabic!
+I am a native speaker of English, currently learning Saudi Arabic, and I also have a basic understanding of Korean, specifically the Northern Munhwao dialect of Pyongyang (no, I don't work for the DPRK, I just find the language interesting).
 
 ## 📔 Hobbies
 
-I'm a beatboxer, and I also enjoy games in my free time, because they help me learn and gather ideas for my own games. I hope to one day compete in the Grand Beatbox Battle World League, or the DMC World DJ Championships, or even create games based on them.
+I have no hobbies, I spend my time worrying because I am chronically paranoid but I do enjoy coding, geography, and learng about my religion, Islam.
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Makkah, Saudi Arabia, the holy city of Islam and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Madinah, Saudi Arabia, the holy city of Islam and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
